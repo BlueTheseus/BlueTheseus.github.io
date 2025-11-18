@@ -1,0 +1,38 @@
+body
+{
+	background-color: #131313;
+	color: white;
+	font-family: Helvetica, sans-serif;
+
+	padding-top: 2em;
+	padding-left: 12%;
+	padding-right: 12%;
+}
+
+a
+{
+	color: #42d4d4;
+}
+
+ul.navigation
+{
+	top: 0;
+	left: 12%;
+	right: 12%;
+	padding: 10px 10px;
+
+	list-style-type: none;
+	display: inline;
+	li
+	{
+		display: inline;
+	}
+}
+
+footer
+{
+	margin-top: 1em;
+	border-top: 2px solid white;
+	position: absolute;
+	bottom: 0;
+}
